@@ -1,0 +1,1 @@
+This is shadmik’s first git project!
